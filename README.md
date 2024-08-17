@@ -10,5 +10,5 @@
 include julia-powerranges.jl
 ```
 
-Gaurav 
+Gaurav Sablok
 
